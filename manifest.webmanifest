@@ -1,0 +1,14 @@
+{
+  "name": "雙北呷飽島",
+  "short_name": "呷飽島",
+  "description": "台北＋新北 19 座吃喝玩樂島，幫你挑出現在最適合的那一家。",
+  "lang": "zh-Hant-TW",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#14213d",
+  "theme_color": "#14213d",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
