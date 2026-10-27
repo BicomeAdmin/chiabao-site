@@ -1,6 +1,6 @@
-# 北北基桃呷飽島
+# 台灣呷飽島
 
-台北、新北、基隆、桃園 24 座吃喝玩樂島：https://chiabao.bicome.cc/
+台灣本島 72 座吃喝玩樂島（北區 24、中區 17、南區 21、東區 10）：https://chiabao.bicome.cc/
 
 這個 repo 只放打包好的網頁，由原始碼 repo 的 `npm run deploy` 自動產生，不要手改。
 

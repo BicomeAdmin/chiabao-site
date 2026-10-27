@@ -1,7 +1,7 @@
 {
-  "name": "北北基桃呷飽島",
+  "name": "台灣呷飽島",
   "short_name": "呷飽島",
-  "description": "台北、新北、基隆、桃園 24 座吃喝玩樂島，幫你挑出現在最適合的那一家。",
+  "description": "台灣本島 72 座吃喝玩樂島：北北基桃、竹竹苗中彰投、雲嘉南高屏、宜花東，幫你挑出現在最適合的那一家。",
   "lang": "zh-Hant-TW",
   "start_url": "./",
   "display": "standalone",
